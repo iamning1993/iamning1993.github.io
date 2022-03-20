@@ -1,0 +1,1 @@
+const t={key:"v-1538da00",path:"/read/",title:"\u8BFB\u4E66\u7B14\u8BB0",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"\u8BFB\u4E66\u7B14\u8BB0",description:"\u8BFB\u4E66\u7B14\u8BB0\u4E0E\u5206\u4EAB"},excerpt:"",headers:[],git:{},filePathRelative:"read/README.md"};export{t as data};
